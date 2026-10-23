@@ -1,7 +1,7 @@
 # MCI1014 Assignment 1 - AI-Assisted Monthly Student Budget Categoriser
 
 **Course:** Artificial Intelligence in Software Engineering (MCI1014), UMPSA
-**Student:** <YOUR NAME> (<YOUR MATRIC NO>)
+**Student:** Nurul Hafizatul Nahima Raslan (KCA25011)
 **Semester:** Session 2025/2026 II
 
 ## Selected case study
@@ -34,7 +34,7 @@ Generative AI (Claude, by Anthropic) was used to help produce a first draft of t
 
 | # | Prompt used (summary) | AI output used | Adopted? | My justification / edits |
 |---|-----------------------|----------------|----------|--------------------------|
-| 1 | Uploaded assignment brief; asked for help understanding the task and creating the repository for the problem "monthly student budgeting" | Drafts of artifacts 01-07, README, validate_artifacts.py, artifact-check.yml | Yes, after review | <Write what you checked and changed, e.g. adjusted figures to my own real spending, edited risks> |
-| 2 | <Add any further prompts you used> | <output> | <Yes/No> | <reason> |
+| 1 |Asked for help understanding the task and creating the repository for the problem "monthly student budgeting" | Drafts of artifacts 01-07, README, validate_artifacts.py, artifact-check.yml | Yes, after review | adjusted figures to my own real spending, edited details of requirement for assignment|
+| 2 | List out all the related work |Project summary| <Yes/No> | <reason> |
 
 Full prompts and outputs are included in the evidence ZIP.
