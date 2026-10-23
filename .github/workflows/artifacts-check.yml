@@ -1,4 +1,4 @@
-ame: artifacts-check
+name: artifacts-check
 
 on:
   push:
